@@ -12,3 +12,7 @@ _Things I have Learned at Bloc to Date_
 - Command Line Basics
 - Some Basic Git / GitHub Setup
 - More to Come
+
+_GitHub Repository
+
+Link to GitHub Repository https://github.com/squints12/lessons_learned.git
